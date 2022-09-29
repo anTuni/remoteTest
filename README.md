@@ -6,3 +6,4 @@ mod development
 mod from feature1 
 2nd mod from feature 
 mod from 2nd feature
+mod from feature3
